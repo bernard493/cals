@@ -1,3 +1,30 @@
+## Frontend Mentor - Calculator app challenge
+This is simple calculator app, but with 3 different themes. Calculator is designed by Fronted Mentor.
+
+## Table of contents
+Overview
+
+Website
+Built with
+d
+Install process
+Build process
+
+
+## Website
+App live demo
+
+## Built with
+
+React
+JavaScript
+Tailwind Css
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
