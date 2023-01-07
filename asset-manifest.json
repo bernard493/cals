@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bernard493/CALS/static/css/main.bbd6d488.css",
+    "main.js": "/bernard493/CALS/static/js/main.15177f07.js",
+    "index.html": "/bernard493/CALS/index.html",
+    "main.bbd6d488.css.map": "/bernard493/CALS/static/css/main.bbd6d488.css.map",
+    "main.15177f07.js.map": "/bernard493/CALS/static/js/main.15177f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd6d488.css",
+    "static/js/main.15177f07.js"
+  ]
+}
