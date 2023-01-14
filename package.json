@@ -1,6 +1,6 @@
 {
-  "homepage": "http://bernard493.github.io/CALS",
-  "name": "CALS",
+  "homepage": "http://bernard493.github.io/cals",
+  "name": "cals",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
